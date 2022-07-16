@@ -3,7 +3,7 @@ A flappybird HTML5 game created with React
 
 In the project directory, RUN the following
 
-### `npm install`
+### `npm install`.
 
 ### `npm start`
 
